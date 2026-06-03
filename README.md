@@ -57,11 +57,11 @@
 
 Bandit Level 1-25
 
-[Bandit Level 1-25 Screenshot](Images/Bandit1-25.png)
+![Bandit Level 1-25 Screenshot](Images/Bandit1-25.png)
 
 Bandit Level 26-33
 
-[Bandit Level 26-33 Screenshot](Images/Bandit26-33.png)
+![Bandit Level 26-33 Screenshot](Images/Bandit26-33.png)
 
 ---
 
